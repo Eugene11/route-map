@@ -1,0 +1,43 @@
+{
+  "points": [
+    {
+      "coordinates": [
+        55.80645564865831,
+        37.526563094638426
+      ],
+      "title": "ds",
+      "sortIndex": 0,
+      "id": 1
+    },
+    {
+      "coordinates": [
+        55.714130476371864,
+        37.487375880382636
+      ],
+      "title": "r41",
+      "sortIndex": 1,
+      "id": 2
+    },
+    {
+      "coordinates": [
+        55.741411260067814,
+        37.72239746093658
+      ],
+      "title": "hgf",
+      "sortIndex": 2,
+      "id": 3
+    },
+    {
+      "coordinates": [
+        55.65541302685483,
+        37.64073756745517
+      ],
+      "title": "d2",
+      "sortIndex": 3,
+      "id": 4
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
